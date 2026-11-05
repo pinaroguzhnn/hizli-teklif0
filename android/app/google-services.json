@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116294644612",
+    "project_id": "hizli-teklif-6e488",
+    "storage_bucket": "hizli-teklif-6e488.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116294644612:android:25a464198910140ddba3d1",
+        "android_client_info": {
+          "package_name": "com.example.ilkproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9UwtxM4j55mvsaUGhw9j9MKyGg_pdrZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
